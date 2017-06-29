@@ -8,8 +8,8 @@
     },
     "require": {
         "acclimate/container": "^1.1",
-        "nette/di": "v3.0.0-alpha1 as 2.4",
-        "nette/utils": "v3.0.0-beta1 as 2.4",
+        "nette/di": "v3.0.0-alpha1 || ^2.4",
+        "nette/utils": "v3.0.0-beta1 || ^2.4",
         "slim/slim": "^3.0"
     }
 }
